@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+.Container{
+    display: flex;
+    height: 1200px;
+    width: 1200px;
+    background-color: rgb(66, 59, 85);
+}
+.box1{
+height: 400px;
+width: 400px;
+background-color: rgb(235, 213, 15);
+border-style: double;
+margin: 20px;
+}
+.box2{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(221, 165, 44);
+    border-style: double;
+    margin: 20px;
+}
+.box3{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(235, 213, 15);
+    border-style: double;
+    margin: 20px;
+}
